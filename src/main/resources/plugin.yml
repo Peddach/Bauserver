@@ -1,0 +1,12 @@
+name: Bauserver
+authors:
+- Professor_Sam
+api-version: 1.19
+main: de.petropia.bauserver.Bauserver
+version: 1.0.0
+description: System for showing and generating words with multiverse
+depend:
+- Mulitverse-Core
+commands:
+   bauserver:
+      description: Manage Bauserver 
